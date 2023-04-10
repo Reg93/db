@@ -1,0 +1,50 @@
+{
+  "name": "Masters",
+  "info": "text",
+  "stages": [
+    {
+      "id": "1",
+      "number": 1
+    },
+    {
+      "id": "2",
+      "number": 2
+    },
+    {
+      "id": "3",
+      "number": 3
+    }
+  ],
+  "participants": [
+    {
+      "id": "1",
+      "name": "John",
+      "pointes": 1
+    },
+    {
+      "id": "2",
+      "name": "John",
+      "pointes": 2
+    },
+    {
+      "id": "3",
+      "name": "John",
+      "pointes": 3
+    },
+    {
+      "id": "4",
+      "name": "John",
+      "pointes": 4
+    },
+    {
+      "id": "5",
+      "name": "John",
+      "pointes": 5
+    },
+    {
+      "id": "6",
+      "name": "John",
+      "pointes": 6
+    }
+  ]
+}
